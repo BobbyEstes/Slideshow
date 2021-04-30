@@ -1,0 +1,15 @@
+.thumbs * {
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+}
+
+.thumbs *:hover {
+    width: 220px;
+    height: 220px;
+}
+
+.topImage img {
+    width: auto;
+    height: 500px;
+}
